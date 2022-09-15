@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Idempiere Themes Community version
-Bundle-SymbolicName: org.amerpsoft.com.idempiere.themes-com
+Bundle-SymbolicName: ec.com.comus.theme
 Bundle-Version: 8.2.0.qualifier
 Bundle-ClassPath: theme/,
   .
